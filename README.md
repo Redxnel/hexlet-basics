@@ -1,1 +1,1 @@
-# hexlet-basics
+Empty code
